@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://m.xinzhu-edu.cn/sitemap.xml
